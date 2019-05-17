@@ -19,6 +19,7 @@ The Dense Graph Propagation module for zero-shot learning aims to use the hierar
  
 
 The overall DGP propagation rule: 
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=H=\sigma\left(D_{a}^{-1}&space;A_{a}&space;\sigma\left(D_{d}^{-1}&space;A_{d}&space;X&space;\Theta_{d}\right)&space;\Theta_{a}\right)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?H=\sigma\left(D_{a}^{-1}&space;A_{a}&space;\sigma\left(D_{d}^{-1}&space;A_{d}&space;X&space;\Theta_{d}\right)&space;\Theta_{a}\right)" title="H=\sigma\left(D_{a}^{-1} A_{a} \sigma\left(D_{d}^{-1} A_{d} X \Theta_{d}\right) \Theta_{a}\right)" /></a>
 
 
