@@ -9,13 +9,13 @@ Graph convolutional neural networks have recently shown great potential for the 
 The proposed method build a dense connectivity structure, which explicitly exploits the hierarchical
 structure of the knowledge graph to perform zero-shot learning by efficiently propagating knowledge.
 
-![DGP_DenseGraph](https://github.com/AI-luyuan/graph-embedding/tree/master/images/DGP_DenseGraph.png)
+![DGP_DenseGraph](https://github.com/AI-luyuan/graph-embedding/blob/master/images/DGP_DenseGraph.png)
 
 ## Approach:
 
 The Dense Graph Propagation module for zero-shot learning aims to use the hierarchical graph structure for the zero-shot learning task and avoids dilution of knowledge by intermediate nodes. This is achieved using a dense graph connectivity scheme consisting of two phases, namely descendant propagation and ancestor propagation. 
 
-![DGP_Framework](https://github.com/AI-luyuan/graph-embedding/tree/master/images/DGP_Framework.png)
+![DGP_Framework](https://github.com/AI-luyuan/graph-embedding/blob/master/images/DGP_Framework.png)
  
 
 The overall DGP propagation rule: 
